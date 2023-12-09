@@ -1,5 +1,5 @@
 
-![Header](./media/github-header-image.png)
+![Header](./media/github-header-image%20(5).png)
 <h3 align="center">
   Hi there! 👋Welcome to My Coding Journey! 🚀
 </h3>
